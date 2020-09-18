@@ -1,1 +1,1 @@
-# travel-project-figma
+# figma-travel-project
